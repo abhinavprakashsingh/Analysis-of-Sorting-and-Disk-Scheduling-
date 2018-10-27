@@ -173,7 +173,7 @@ void countSort(char arr[])
 
 int sort_main()
 {
-    int arr[] = {64, 25, 12, 22, 11};
+    int arr[200];
     int n = sizeof(arr)/sizeof(arr[0]);
 int arr_size = sizeof(arr)/sizeof(arr[0]);
 
