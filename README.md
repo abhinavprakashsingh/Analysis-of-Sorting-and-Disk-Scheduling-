@@ -1,3 +1,7 @@
-Analysis-Based-on-Execution-Time
+#Analysis-Based-on-Execution-Time
 
-Tool For analysis of algorithm based on their execution time and graphical analysis and deploy and run it using docker
+#Objective
+
+Analysis of algorithms based on their execution time based on that its graphical analysis
+was done to provide a user clear view of the optimal algorithm which performed best on
+each test case and its image deployment on docker hub.
